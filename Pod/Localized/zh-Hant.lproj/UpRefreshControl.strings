@@ -1,0 +1,9 @@
+/* 
+  UpRefreshControl.strings
+  GalaToy
+
+  Created by guangbo on 15/5/13.
+
+*/
+"Pull down to refresh ..." = "下拉可以刷新...";
+"Release to refresh ..." = "放開進行刷新...";
