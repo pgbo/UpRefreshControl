@@ -18,11 +18,11 @@
 ### cocoapods
 将下面的语句加入到你的Podfile：
 ```ruby
-pod "UpLoadMoreControl", :git => "https://github.com/pgbo/UpRefreshControl.git"
+pod "UpRefreshControl", :git => "https://github.com/pgbo/UpRefreshControl.git"
 ```
 
 ### 手动安装
-拷贝并添加或推拽UpLoadMoreControl目录到你的项目目录里即可。
+拷贝并添加或推拽UpRefreshControl目录到你的项目目录里即可。
 
 ## 使用
 ### 初始化并添加到UIScrollView中
