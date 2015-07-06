@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'UpRefreshControl_Example', :exclusive => true do
+  pod "UpRefreshControl", :path => "../"
+end
+
+target 'UpRefreshControl_Tests', :exclusive => true do
+  pod "UpRefreshControl", :path => "../"
+
+  
+end
