@@ -18,7 +18,7 @@
 ### cocoapods
 将下面的语句加入到你的Podfile：
 ```ruby
-pod "UpLoadMoreControl", :git => "https://github.com/pgbo/UpLoadMoreControl.git"
+pod "UpLoadMoreControl", :git => "https://github.com/pgbo/UpRefreshControl.git"
 ```
 
 ### 手动安装
